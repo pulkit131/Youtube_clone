@@ -1,0 +1,16 @@
+.apple-text{
+    font-family: Arial;
+    font-size: 14px;
+    background-color: rgb(227,65,64);
+    color: white;
+    text-align: center;
+    padding-top: 17.5px;
+    padding-bottom: 17.5px;
+}
+
+.shop-link{
+    cursor: pointer;
+}
+.shop-link:hover{
+   text-decoration: underline;   
+}
